@@ -20,7 +20,7 @@
 ### Mark tasks as done:
 
 <div align="left">
-  <img src="https://github.com/YanLB5/Task-Manager-Interface/assets/129100238/f7b98a5a-d059-4296-aa36-aaf73dffaa40" width="900px" />
+  <img src="https://github.com/YanLB5/Task-Manager-Interface/assets/129100238/e3a862da-dbec-4c63-a769-28d01ce245e5" width="900px" />
 </div>
 
 ### Create a new task:
