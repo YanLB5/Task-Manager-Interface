@@ -1,6 +1,9 @@
 # Task Manager
 <strong>A Task-Manager Interface using React JS</strong>
 
+## Deploy:
+<b> Click here to check out the live version of the [Task-Manager](https://task-manager-interface.vercel.app/) <br><br> <span> Or click here: https://task-manager-interface.vercel.app/<span/>  <b/>
+
 <div align="center">
   <img src="https://github.com/YanLB5/Task-Manager-Interface/assets/129100238/696a6a87-e02a-4332-8139-4401c96a6262" width="1000px" />
 </div>
